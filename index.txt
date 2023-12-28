@@ -1,0 +1,266 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = keith Mhangamiso
+Keith Mhangamiso
+Software developer
+
+Show Contacts
+
+Email
+krmhanga@gmail.com
+
+Phone
++27 61 833 6597
+
+Birthday
+march 30, 1985
+
+Location
+Kraaifontein, Wallacedene Cape Town , South Africa
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+As a seasoned Creative Software Developer based in the vibrant city of Cape Town, South Africa, I specialize in the intricate domains of web development and application design. With a passion for transforming complex problems into elegant solutions, my mission is to craft websites and applications that seamlessly blend functionality with stunning, user-friendly designs
+
+At the core of my expertise lies the art of simplifying complexities, creating designs that are not only visually appealing but also intuitively navigable. Whether it's a website or an application, I take pride in weaving simplicity into every line of code and pixel, ensuring that the end product is not just functional but a joy to interact with.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+E-Commerce
+High-Performence Online Store development user friendly that allow client to shop with easy.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Choosing Keith Digital Print for our website design was one of the best decisions we made for our business. The team's expertise and dedication are evident in the polished and visually stunning website they delivered. It has not only elevated our online presence but also attracted new customers. Kudos to Keith Digital Print for their outstanding work.
+
+alt = Jessica miller
+Jessica miller
+Working with Keith on my custom webste was a delightful experience. His creativity and skill shine through in the final project. The webste perfectly captures the essence of what I envisioned, and I couldn't be happier with the result. Thank you, Keith.
+
+alt = Emily evans
+Emily evans
+eith Digital Print took our outdated website and turned it into a modern masterpiece. The team was responsive, professional, and truly understood our needs. The result is a visually appealing and user-friendly website that has received rave reviews from our clients. Thank you for exceeding our expectations
+
+alt = Henry william
+Henry william
+eith Digital Print took our outdated website and turned it into a modern masterpiece. The team was responsive, professional, and truly understood our needs. The result is a visually appealing and user-friendly website that has received rave reviews from our clients. Thank you for exceeding our expectations
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+University school of the arts
+2007 — 2008
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+Fatima High School
+2005 — 2006
+Advance Level/ Metric
+Management Of Business
+Economics
+Goegraphy
+
+IT Academy Cape Town
+2019 — 2020
+Software Development.
+
+
+Mendix Academy
+2023
+Software Development.
+
+
+Experience
+
+Software Developer
+2021 — Present
+Started creating and developing software to hence my skills as a developer. Made web applications from simple static website to dynmaic web applications like online schools.
+
+Processing Officer|Home Affairs
+2008 - 2014
+Worked as a processing officer my duties were to Verify technical specifications and information details before processing paperwork. Maintaining national records of IDs and birth certificates and Processed both manual and digital transactions inline with established policies.
+
+Web Designer
+2020 — Present
+I have played a pivotal role in orchestrating transformative initiatives for several firms, spearheading comprehensive face uplifts that encompass rebranding strategies and the seamless integration of bespoke business solutions. My strategic interventions have propelled these organizations to elevated levels of success, aligning their corporate images with contemporary standards of excellence and charting a course for sustained growth.
+
+My skills
+
+Web Design
+80%
+Graphic Design
+60%
+Branding
+90%
+WordPress
+80%
+HTML5
+90%
+CSS3
+80%
+JAVASCRIPT
+80%
+DotNet
+70%
+SQL
+80%
+C#
+80%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+Learner Management System
+Web development
+
+learning
+LearnQuick Student Management System
+Web development
+
+orizon
+Trainng Management Web App
+Web development
+
+PlumberOnDuty
+PlumberOnDuty
+Web design
+
+mm flooring
+MM Wooden Flooring
+Web design
+
+andy renovations
+Andy Renovations
+Web design
+
+keith digital print
+Keith Digital Print
+Web design
+
+SlickLoans
+SlickLoans
+Web design
+
+summary
+Summary
+Web development
+
+arrival
+Arrival
+Web development
+
+
+# blog
+
+Blog
+
+Design
+
+Fab 03, 2022
+Design Conferences In 2022
+Design Thinking: Exploring and applying design thinking methodologies. Case studies on successful design thinking implementations.
+
+Best fonts every designer
+Design
+
+Mar 30, 2020
+Best Fonts Every Designer
+The choice of fonts in design can greatly impact the visual appeal and effectiveness of a project. There isn't a one-size-fits-all answer, as the best fonts for a design depend on various factors such as the purpose of the design, the target audience, and the overall aesthetic you're trying to achieve.
+
+Design digest #80
+Software
+
+Jan 23, 2021
+Software Development Key Principles #80
+Software development follows several key principles and best practices to ensure the creation of high-quality, maintainable, and effective software. These principles guide developers in the process of designing, coding, testing, and deploying software.
+
+UI interactions of the week
+Design
+
+Dec 18, 2021
+UI Design Interactions Of The Week
+User Interface (UI) design is a critical aspect of software development that focuses on creating visually appealing, user-friendly, and effective interfaces for applications. A well-designed UI enhances the user experience and contributes to the overall success of a product.
+
+The forgotten art of spacing
+Design
+
+Sept 11, 2020
+The Forgotten Art Of Spacing
+The use of spacing, often referred to as "white space" in design, is a fundamental and powerful aspect that contributes to the overall aesthetic and functionality of a design. White space is not just empty space; it's a deliberate and strategic design choice that influences how users perceive and interact with a layout.
+
+Design digest #79
+Sofware
+
+Dec 06, 2022
+Software Development Life Cycle[SDLC]
+The software development life cycle (SDLC) is a systematic process that guides the development of software applications from conception to deployment and maintenance. The purpose of the software life cycle is to ensure the creation of high-quality software that meets user requirements, is delivered on time, and stays within budget. The SDLC typically consists of several phases, each with its own set of activities and deliverables.
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
